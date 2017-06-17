@@ -1,0 +1,11 @@
+//Errors
+//Kevin Loi
+//kloi
+//lab6
+//found errors in LetterHome.class
+
+1. Sentence 2, it is supposed to say "The weather has been hot." It turns out as cold. (Sentence 2 Input 4)
+2. Sentence 3, it is supposed to say "I plan to come home for a visit next weekend." It turns out as last weekend. (Sentence 3 Input 3)
+3. In sentence 4, book should be books. (should be plural, not singular.)
+4. Sentence 5, when the sentence prints ERROR, it is missing the "you sent." after ERROR.
+5. Sentence 5 missing period at end of sentence. (Sentence 5 Input 2)

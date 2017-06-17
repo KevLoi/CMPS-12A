@@ -1,0 +1,21 @@
+/afs/cats.ucsc.edu/users/k/kloi/cs12a/lab2
+
+Access list for public is
+Normal rights:
+  system:operator rlidwk
+  system:authuser rlid
+  system:anyuser rl
+  kloi rlidwka
+
+Access list for private is
+Normal rights:
+  kloi rlidwka
+
+total 7
+-rw-r--r--. 1 kloi users  426 Jan 16 23:02 HelloWorld.class
+drwxr-xr-x. 2 kloi users 2048 Jan 16 20:21 private
+-rwx------. 1 kloi users  194 Jan 16 23:14 prog
+drwxr-xr-x. 2 kloi users 2048 Jan 16 20:21 public
+-rw-r--r--. 1 kloi users  227 Jan 16 23:17 result
+
+Hello, lab2!
